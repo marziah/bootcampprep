@@ -2,7 +2,7 @@ README.md
 Another change
 # PREP repo
 
-* This is an outline list
+* Hello, and welcome to my repo
 * Which I'm making readable
 
 1. This is really
@@ -11,7 +11,7 @@ Another change
 
 ## eventually
 
-There will be something worth reading here. 
+There will be something worth reading here. Right now I'm just exploring MD. 
 ```js
 onClick(doSomething)
 ```
