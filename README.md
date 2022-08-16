@@ -11,7 +11,7 @@ Another change
 
 ## eventually
 
-There will be something worth reading here. Right now I'm just exploring MD. 
+There will be something worth reading here. Right now I'm just demonstrating Markdown. 
 ```js
 onClick(doSomething)
 ```
